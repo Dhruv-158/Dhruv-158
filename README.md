@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-158&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-158" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-158" alt="dhruv-158" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dhruv._.prajapati" target="blank"><img src="https://img.shields.io/twitter/follow/dhruv._.prajapati?logo=twitter&style=for-the-badge" alt="dhruv._.prajapati" /></a> </p>
 
 - 🔭 I’m currently working on **React.js and Node.js**
 
 - 👯 I’m looking to collaborate on **React.js and Node.js**
 
-- 👨‍💻 All of my projects are available at [in/dhruv-prajapati-b59452242](in/dhruv-prajapati-b59452242)
+- 👨‍💻 All of my projects are available Dhruv-158
 
 - 💬 Ask me about **react**
 
