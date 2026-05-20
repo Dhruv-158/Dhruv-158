@@ -1,135 +1,183 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dhruv%20Prajapati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20MERN%20Stack&descSize=16&descAlignY=62" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Building+with+React+%26+Node.js;MERN+Stack+Developer;AI+%26+ML+Engineer;Full+Stack+%2B+AI+%3D+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-prajapati-b59452242)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhruvPr16438993)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvprajapati152@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv-158)
-
-<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=Dhruv-158&style=flat-square&color=6366F1&label=Profile+Views)
+<!-- CYBERPUNK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=DHRUV%20PRAJAPATI&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20MERN%20Stack&descSize=18&descAlignY=62&stroke=6366F1&strokeWidth=3" />
 
 </div>
 
----
+<!-- MATRIX-STYLE DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👋 About Me
+<div align="center">
 
-```ts
-const dhruv = {
-  role:       "Full Stack Developer & AI/ML Engineer",
-  location:   "India 🇮🇳",
-  focus:      ["React.js", "Node.js", "MERN Stack", "LLMs", "Deep Learning"],
-  ai_stack:   ["TensorFlow", "PyTorch", "scikit-learn", "NLP", "Prompt Engineering"],
-  openTo:     "MERN Stack & AI/ML collaborations",
-  contact:    "dhruvprajapati152@gmail.com",
-  funFact:    "I debug with console.log and I'm not ashamed 😄"
+<!-- ANIMATED TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A855F7&background=00000000&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%9A%80+Building+the+future+with+code;%F0%9F%A7%A0+AI+%2B+Full+Stack+%3D+Limitless;%E2%9A%A1+React+%7C+Node+%7C+Python+%7C+LLMs;%F0%9F%94%A5+Turning+ideas+into+products)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- SOCIAL BADGES — neon glow style -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-prajapati-b59452242)
+[![X](https://img.shields.io/badge/𝕏_Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DhruvPr16438993)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvprajapati152@gmail.com)
+[![Portfolio](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhruv-158)
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=Dhruv-158&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; About Me
+
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+```typescript
+const dhruv: Developer = {
+  name:      "Dhruv Prajapati",
+  role:      "Full Stack Engineer & AI/ML Developer",
+  location:  "India 🇮🇳",
+
+  stack: {
+    frontend:  ["React.js", "Vue.js", "Vite"],
+    backend:   ["Node.js", "Express", "FastAPI", "Django"],
+    ai_ml:     ["PyTorch", "TensorFlow", "LangChain",
+                 "HuggingFace", "NLP", "LLMs"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+    cloud:     ["AWS", "Firebase"],
+  },
+
+  Currently building: "AI-powered full stack apps 🤖",
+  openTo:            "MERN + AI/ML collaborations",
+  funFact:           "console.log > debugger. Always. 😄",
 };
 ```
 
----
+<br clear="right"/>
 
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhruv-158&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-158&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-158&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; Tech Arsenal
 
-</div>
+### 〔 Languages 〕
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark&perline=10" />
+</p>
 
-## 🏆 GitHub Trophies
+### 〔 Frontend 〕
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vue,vite&theme=dark&perline=10" />
+</p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dhruv-158&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+### 〔 Backend & APIs 〕
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql&theme=dark&perline=10" />
+</p>
 
----
+### 〔 Databases & Cloud 〕
 
-## 📈 Contribution Activity
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws&theme=dark&perline=10" />
+</p>
 
-<div align="center">
+### 〔 AI / ML 〕
 
-[![Dhruv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-158&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=10" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
----
+### 〔 Tools 〕
 
-## 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark&perline=10" />
+</p>
 
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Dhruv-158&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ A Dev Quote to Live By
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp; GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruv-158&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&border_color=A855F7" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-158&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=F59E0B&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<br/><br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-158&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 📈 &nbsp; Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-158&bg_color=0d1117&color=A855F7&line=A855F7&point=F59E0B&area=true&area_color=A855F7&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 &nbsp; GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhruv-158&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🔝 &nbsp; Top Contributed Repos
+
+<div align="center">
+
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Dhruv-158&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+<br/>
+
+### ✍️ Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn&stroke=A855F7&strokeWidth=2" />
 
 </div>
