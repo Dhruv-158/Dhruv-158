@@ -50,32 +50,6 @@ and intelligent systems. Clean code, powerful architecture, and everything you n
 <!--  DASHBOARD MOCKUP — mirrors the CRM hero screenshot            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  🖥️  Developer Dashboard                          🌐 dhruv.dev           ║
-╠═══════════════╦════════════════════════════════════════════════════════  ║
-║               ║                                                          ║
-║  📌 Skills    ║   👋 Welcome back, Recruiter! Here's what I bring.      ║
-║  ─────────    ║   ─────────────────────────────────────────────────      ║
-║  ⚛  React    ║                                                          ║
-║  🟢 Vue       ║   ┌─────────────┐ ┌─────────────┐ ┌─────────────┐      ║
-║  ⚡ Node      ║   │ GitHub Stars│ │  Repos      │ │  AI Projects│      ║
-║  🐍 Python    ║   │    ⭐ 50+   │ │   📦 20+    │ │   🤖 10+    │      ║
-║  🤖 PyTorch   ║   │ +growing    │ │ production  │ │ deployed    │      ║
-║  🔗 LangChain ║   └─────────────┘ └─────────────┘ └─────────────┘      ║
-║  🗄️  MongoDB  ║                                                          ║
-║  ☁️  AWS      ║   Revenue of Skills                         This Year ▼  ║
-║               ║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  React 87%   ║
-║  📊 Analytics ║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░  Node  78%   ║
-║  🔗 Projects  ║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░  AI/ML 68%  ║
-║  ⚙️  Settings ║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░  Python 62% ║
-║               ║                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
