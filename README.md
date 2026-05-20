@@ -1,114 +1,101 @@
-<!-- ██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗    ██████╗ ██████╗  █████╗      ██╗ █████╗ ██████╗  █████╗ ████████╗██╗ -->
-<!-- ██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║    ██╔══██╗██╔══██╗██╔══██╗     ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║ -->
-<!-- ██║  ██║███████║██████╔╝██║   ██║╚██╗ ██╔╝    ██████╔╝██████╔╝███████║     ██║███████║██████╔╝███████║   ██║   ██║ -->
-<!-- ██║  ██║██╔══██║██╔══██╗██║   ██║ ╚████╔╝     ██╔═══╝ ██╔══██╗██╔══██║██   ██║██╔══██║██╔═══╝ ██╔══██║   ██║   ██║ -->
-<!-- ██████╔╝██║  ██║██║  ██║╚██████╔╝  ╚██╔╝      ██║     ██║  ██║██║  ██║╚█████╔╝██║  ██║██║     ██║  ██║   ██║   ██║ -->
+<!--
+  ██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗    ██████╗ ██████╗  █████╗      ██╗ █████╗ ██████╗  █████╗ ████████╗██╗
+  ██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║    ██╔══██╗██╔══██╗██╔══██╗     ██║██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║
+  ██║  ██║███████║██████╔╝██║   ██║╚██╗ ██╔╝    ██████╔╝██████╔╝███████║     ██║███████║██████╔╝███████║   ██║   ██║
+  Dhruv Prajapati — Full Stack + AI/ML Developer Profile README
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=220&amp;section=header&amp;text=DHRUV%20PRAJAPATI&amp;fontSize=60&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=%E2%9A%A1%20Full%20Stack%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20MERN%20Stack&amp;descSize=20&amp;descAlignY=62&amp;stroke=A855F7&amp;strokeWidth=3" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=%F0%9F%9A%80+Building+AI-Powered+Full+Stack+Apps;%F0%9F%A7%A0+React+%7C+Vue+%7C+Node+%7C+LLMs;%E2%9A%A1+Turning+Ideas+Into+Products;%F0%9F%94%A5+Open+to+MERN+%26+AI%2FML+Collabs)](https://git.io/typing-svg)
+<!-- STAR BANNER -->
+> ⭐ **Star this profile if you like my work!**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/dhruv-prajapati-b59452242)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=x&amp;logoColor=white)](https://x.com/DhruvPr16438993)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhruvprajapati152@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/Dhruv-158)
+<!-- LOGO + NAME HERO -->
+<img src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=20&amp;section=header" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dhruv-158&amp;style=for-the-badge&amp;color=blueviolet&amp;label=PROFILE+VIEWS)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=900&amp;size=52&amp;pause=99999&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=80&amp;lines=Dhruv+Prajapati" alt="Dhruv Prajapati"/>
+
+### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=20&amp;pause=99999&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=36&amp;lines=Modern.+Powerful.+Full+Stack+%2B+AI+Developer." alt="tagline"/>
+
+<br/>
+
+A **Full Stack Engineer** and **AI/ML Developer** who builds production-grade web applications
+and intelligent systems. Clean code, powerful architecture, and everything you need to ship fast.
+
+<br/>
+
+<!-- FEATURE PILLS -->
+![Fast](https://img.shields.io/badge/%F0%9F%9A%80%20Fast-0d1117?style=flat-square&amp;labelColor=0d1117&amp;color=A855F7)
+![AI%20Powered](https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Powered-0d1117?style=flat-square&amp;color=6366F1)
+![Full%20Stack](https://img.shields.io/badge/%F0%9F%94%A5%20Full%20Stack-0d1117?style=flat-square&amp;color=EC4899)
+![Open%20Source](https://img.shields.io/badge/%F0%9F%8C%8D%20Open%20Source-0d1117?style=flat-square&amp;color=10B981)
+
+<br/><br/>
+
+<!-- CTA BUTTONS -->
+[![Hire Me](https://img.shields.io/badge/%F0%9F%92%BC%20%20Hire%20Me-A855F7?style=for-the-badge&amp;logoColor=white)](mailto:dhruvprajapati152@gmail.com)
+[![View Projects](https://img.shields.io/badge/%F0%9F%93�%20%20View%20Projects-1a1a2e?style=for-the-badge&amp;logoColor=white)](https://github.com/Dhruv-158?tab=repositories)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="28"> &nbsp; Who Am I?
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  DASHBOARD MOCKUP — mirrors the CRM hero screenshot            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-```typescript
-const dhruv: Developer = {
-  name:     "Dhruv Prajapati",
-  role:     "Full Stack Engineer & AI/ML Developer",
-  location: "India 🇮🇳",
+<div align="center">
 
-  stack: {
-    languages: ["JavaScript", "TypeScript", "Python"],
-    frontend:  ["React.js", "Vue.js", "Vite"],
-    backend:   ["Node.js", "Express", "FastAPI",
-                 "Django", "Flask", "GraphQL"],
-    ai_ml:     ["PyTorch", "TensorFlow", "LangChain",
-                 "HuggingFace", "NLP", "LLMs",
-                 "Prompt Engineering", "scikit-learn"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL",
-                 "Firebase"],
-    cloud:     ["AWS"],
-  },
-
-  building:  "AI-powered full stack products 🤖",
-  openTo:    "MERN + AI/ML collaborations 🤝",
-  contact:   "dhruvprajapati152@gmail.com",
-  funFact:   "console.log > debugger. Forever. 😄",
-};
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  🖥️  Developer Dashboard                          🌐 dhruv.dev           ║
+╠═══════════════╦════════════════════════════════════════════════════════  ║
+║               ║                                                          ║
+║  📌 Skills    ║   👋 Welcome back, Recruiter! Here's what I bring.      ║
+║  ─────────    ║   ─────────────────────────────────────────────────      ║
+║  ⚛  React    ║                                                          ║
+║  🟢 Vue       ║   ┌─────────────┐ ┌─────────────┐ ┌─────────────┐      ║
+║  ⚡ Node      ║   │ GitHub Stars│ │  Repos      │ │  AI Projects│      ║
+║  🐍 Python    ║   │    ⭐ 50+   │ │   📦 20+    │ │   🤖 10+    │      ║
+║  🤖 PyTorch   ║   │ +growing    │ │ production  │ │ deployed    │      ║
+║  🔗 LangChain ║   └─────────────┘ └─────────────┘ └─────────────┘      ║
+║  🗄️  MongoDB  ║                                                          ║
+║  ☁️  AWS      ║   Revenue of Skills                         This Year ▼  ║
+║               ║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  React 87%   ║
+║  📊 Analytics ║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░  Node  78%   ║
+║  🔗 Projects  ║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░  AI/ML 68%  ║
+║  ⚙️  Settings ║   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░  Python 62% ║
+║               ║                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## ⚡ &nbsp; What I Do
-
-<div align="center">
-
-| 🌐 Full Stack Dev | 🤖 AI / ML | ☁️ Cloud & DB |
-|:---:|:---:|:---:|
-| Building production-grade MERN &amp; Vue apps with clean architecture | LLMs, NLP, Deep Learning with PyTorch, TensorFlow &amp; HuggingFace | Scalable databases on MongoDB, PostgreSQL &amp; AWS |
-
 </div>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; Tech Arsenal
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  FEATURE CARDS ROW — mirrors the 6 CRM feature cards          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🧩 &nbsp; What I Bring to the Table
 
 <div align="center">
 
-### ⟨ Languages ⟩
-<img src="https://skillicons.dev/icons?i=js,ts,python&amp;theme=dark&amp;perline=10" />
+| ⚛️ &nbsp; React / Vue | 🤖 &nbsp; AI / ML | 🛠️ &nbsp; Backend APIs |
+|:---|:---|:---|
+| Build blazing-fast SPAs and component-driven UIs with React.js, Vue.js, Redux, and Vite. Pixel-perfect, production-grade. | LLMs, NLP, Deep Learning with PyTorch, TensorFlow, LangChain, and HuggingFace — from prototype to deployment. | Scalable REST &amp; GraphQL APIs with Node.js, Express, FastAPI and Django. JWT auth, rate-limiting, clean architecture. |
 
-### ⟨ Frontend ⟩
-<img src="https://skillicons.dev/icons?i=react,vue,vite&amp;theme=dark&amp;perline=10" />
-
-### ⟨ Backend &amp; APIs ⟩
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql&amp;theme=dark&amp;perline=10" />
-
-### ⟨ Databases &amp; Cloud ⟩
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws&amp;theme=dark&amp;perline=10" />
-
-### ⟨ AI / ML ⟩
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&amp;theme=dark&amp;perline=10" />
-
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP%2FNLU-8B5CF6?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-06B6D4?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
-</p>
-
-### ⟨ Tools ⟩
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&amp;theme=dark&amp;perline=10" />
+| 🗄️ &nbsp; Databases | ☁️ &nbsp; Cloud &amp; DevOps | 📊 &nbsp; Data &amp; Analytics |
+|:---|:---|:---|
+| MongoDB, PostgreSQL, MySQL &amp; Firebase. Schema design, indexing, aggregation pipelines, and real-time data sync. | AWS deployments, Firebase hosting, Git workflows, CI/CD pipelines. Code that ships and scales reliably. | Pandas, NumPy, Matplotlib &amp; Power BI. Turn raw data into insights that actually drive decisions. |
 
 </div>
 
@@ -116,17 +103,115 @@ const dhruv: Developer = {
 
 <br/>
 
-## 🎮 &nbsp; Snake Game — Eat My Contributions!
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  TECH STACK GRID — mirrors CRM's tech stack section           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛠️ &nbsp; Tech Stack
+
+<div align="center">
+
+**🔤 Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python&amp;theme=dark" />
+
+**⚛️ Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vue,vite&amp;theme=dark" />
+
+**🧠 Backend &amp; APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql&amp;theme=dark" />
+
+**🗄️ Databases &amp; Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws&amp;theme=dark" />
+
+**🤖 AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&amp;theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/NLP%2FNLU-8B5CF6?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+
+**🔧 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&amp;theme=dark" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  QUICK START — mirrors CRM's quick start section              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp; Work With Me — Quick Start
+
+<table>
+<tr>
+<td width="50%">
+
+### 📬 Reach Out in 3 Steps
+
+```bash
+# 1. Connect on LinkedIn
+open https://linkedin.com/in/dhruv-prajapati-b59452242
+
+# 2. Drop me an email
+mailto:dhruvprajapati152@gmail.com
+
+# 3. Explore my repositories
+open https://github.com/Dhruv-158?tab=repositories
+
+# Collaboration will be available at
+# your next great product 🚀
+```
+
+</td>
+<td width="50%">
+
+### ⭐ Why Work With Me?
+
+✅ &nbsp; Clean &amp; Scalable Code Architecture  
+✅ &nbsp; Full Stack + AI in One Developer  
+✅ &nbsp; Fast Delivery, Production-Ready Output  
+✅ &nbsp; Strong Communication &amp; Collaboration  
+✅ &nbsp; Open Source Contributor  
+✅ &nbsp; Always Learning, Always Shipping  
+
+<br/>
+
+> *"I don't just write code — I build products."* 🔥
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  SNAKE GAME                                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎮 &nbsp; Snake Eats My Contributions!
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
-
-> 🐍 _Snake eats through my GitHub contributions — set this up via [platane/snk](https://github.com/platane/snk) GitHub Action_
 
 </div>
 
@@ -134,7 +219,11 @@ const dhruv: Developer = {
 
 <br/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp; GitHub Stats
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  GITHUB STATS                                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 &nbsp; GitHub Stats
 
 <div align="center">
 
@@ -149,21 +238,13 @@ const dhruv: Developer = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## 📈 &nbsp; Contribution Graph
+## 📈 &nbsp; Contribution Activity
 
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dhruv-158&amp;bg_color=0d1117&amp;color=A855F7&amp;line=A855F7&amp;point=F59E0B&amp;area=true&amp;area_color=A855F7&amp;hide_border=true&amp;radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
 
 ## 🏆 &nbsp; GitHub Trophies
 
@@ -177,11 +258,17 @@ const dhruv: Developer = {
 
 <br/>
 
-## 🔝 &nbsp; Top Contributed Repos
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  BOTTOM STATS BAR — mirrors CRM's stars/forks/views row      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📌 &nbsp; Profile At a Glance
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Dhruv-158&amp;limit=5&amp;theme=radical&amp;combine_all_yearly_contributions=true&amp;hide_border=true&amp;bg_color=0d1117)
+| ⭐ GitHub Stars | 📦 Public Repos | 👁️ Profile Views | 🤝 Open To Collab | 🌍 Location |
+|:---:|:---:|:---:|:---:|:---:|
+| Check Profile | 20+ | ![Views](https://komarev.com/ghpvc/?username=Dhruv-158&amp;style=flat-square&amp;color=A855F7) | ✅ Yes | India 🇮🇳 |
 
 </div>
 
@@ -189,19 +276,24 @@ const dhruv: Developer = {
 
 <br/>
 
+<!-- FOOTER -->
 <div align="center">
 
-### ✍️ Dev Quote of the Day
+### ✍️ Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical)
 
 <br/>
 
-### 🤝 Let's Connect &amp; Build Something Amazing
+**Made with ❤️ by Dhruv Prajapati**
 
-_"Code is poetry. AI is the future. Let's write both together."_ 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/dhruv-prajapati-b59452242)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&amp;logo=x&amp;logoColor=white)](https://x.com/DhruvPr16438993)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:dhruvprajapati152@gmail.com)
 
 <br/>
+
+© 2025 Dhruv Prajapati. Built with passion 🚀 by a developer who never stops shipping.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=130&amp;section=footer&amp;animation=fadeIn&amp;stroke=A855F7&amp;strokeWidth=2" />
 
