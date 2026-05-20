@@ -79,7 +79,7 @@ const dhruv: Developer = {
 ### 〔 Backend & APIs 〕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi;theme=dark&amp;perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&amp;theme=dark&amp;perline=10" />
 </p>
 
 ### 〔 Databases & Cloud 〕
