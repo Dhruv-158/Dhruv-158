@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CYBERPUNK HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=DHRUV%20PRAJAPATI&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=⚡%20Full%20Stack%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20MERN%20Stack&descSize=18&descAlignY=62&stroke=6366F1&strokeWidth=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=200&amp;section=header&amp;text=DHRUV%20PRAJAPATI&amp;fontSize=55&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=⚡%20Full%20Stack%20Engineer%20%7C%20AI%20%26%20ML%20%7C%20MERN%20Stack&amp;descSize=18&amp;descAlignY=62&amp;stroke=6366F1&amp;strokeWidth=3" />
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="28"> &nbsp; About Me
 
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -50,7 +50,7 @@ const dhruv: Developer = {
     cloud:     ["AWS", "Firebase"],
   },
 
-  Currently building: "AI-powered full stack apps 🤖",
+  Currently building: "AI-powered full-stack apps 🤖",
   openTo:            "MERN + AI/ML collaborations",
   funFact:           "console.log > debugger. Always. 😄",
 };
@@ -67,45 +67,45 @@ const dhruv: Developer = {
 ### 〔 Languages 〕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python&amp;theme=dark&amp;perline=10" />
 </p>
 
 ### 〔 Frontend 〕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,vite&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,vue,vite&amp;theme=dark&amp;perline=10" />
 </p>
 
 ### 〔 Backend & APIs 〕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask,graphql&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi;theme=dark&amp;perline=10" />
 </p>
 
 ### 〔 Databases & Cloud 〕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,aws&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&amp;theme=dark&amp;perline=10" />
 </p>
 
 ### 〔 AI / ML 〕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&amp;theme=dark&amp;perline=10" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
 </p>
 
 ### 〔 Tools 〕
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&amp;theme=dark&amp;perline=10" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -116,12 +116,12 @@ const dhruv: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruv-158&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&border_color=A855F7" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-158&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=F59E0B&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dhruv-158&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;icon_color=A855F7&amp;text_color=c9d1d9&amp;border_color=A855F7" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-158&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;ring=A855F7&amp;fire=F59E0B&amp;currStreakLabel=A855F7&amp;sideLabels=c9d1d9&amp;dates=c9d1d9" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-158&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-158&amp;layout=donut&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A855F7&amp;text_color=c9d1d9" />
 
 </div>
 
@@ -147,7 +147,7 @@ const dhruv: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dhruv-158&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dhruv-158&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" />
 
 </div>
 
@@ -178,6 +178,6 @@ const dhruv: Developer = {
 <br/>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn&stroke=A855F7&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=120&amp;section=footer&amp;animation=fadeIn&amp;stroke=A855F7&amp;strokeWidth=2" />
 
 </div>
